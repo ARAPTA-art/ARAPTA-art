@@ -11,7 +11,7 @@
 - Open-source ML projects, full-stack web apps, or anything that fuses data science with beautiful UIs. Let’s create something impactful together  
 
 📫 How to reach me ...  
-- Drop me a line at [elvisarapta3@gmail.com] or ping me on Twitter [Elviskipru950]. I’m always up for a tech chat 
+- Drop me a line at [elvisarapta3@gmail.com] or ping me on Twitter [@Elviskipru950]. I’m always up for a tech chat 
 
 😄 Pronouns: ...  
 - He/Him  
